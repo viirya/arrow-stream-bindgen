@@ -1,4 +1,4 @@
-#include <stdint>
+#include <stdint.h>
 
 #define ARROW_FLAG_DICTIONARY_ORDERED 1
 #define ARROW_FLAG_NULLABLE 2
